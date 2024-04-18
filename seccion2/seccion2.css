@@ -1,8 +1,100 @@
 .seccion2 {
     width: 1,440ppx;
-    height: 861.5px;
+    height: 911.5px;
+    gap: 45px;
     top: 742px;
     padding: 80px 176px 80px 176px;
     background-color: #7622D7;
     border: 2px solid black;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Titulo2 {
+    width: 1,087.98px;
+    height: 96.5px;
+    padding: 0px 296.06px 0.5px 296.05px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2 {
+    width: 449px;
+    height: 96px;
+    color: white;
+    font-size: 25px;
+    border: 2px solid black;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu2 {
+    width: 1,325.62px;
+    height: 27px;
+    gap: 70px;
+    border: 1px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menucitos {
+    font-size: 18px;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_info {
+    width: 1000px;
+    height: 450px;
+    border: 1px solid black;
+    background-color: #F1E9FB;
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.title {
+    width: 400px;
+    height: 32px;
+    margin-top: 48px;
+    margin-left: 10px;
+    font-size: 23px;
+    padding: 0px 17.95px 0px 0px;
+    border: 1px solid black;
+
+    display: flex;
+}
+
+.parrafo1 {
+    width: 400px;
+    height: 147.5px;
+    margin-top: 13px;
+    margin-left: 10px;
+    padding: 0px 0px 12px 0px;
+    border: 1px solid black;
+    font-size: 21.4px;
+}
+
+.boton-sec2 {
+    width: 420px;
+    height: 52.5px;
+    top: 271px;
+    left: 74px;
+    padding: 0px 219.8px 0px 0px;
+
 }
